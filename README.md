@@ -1,3 +1,5 @@
+theme: jekyll-theme-hacker
+
 # jonyschuk.github.io
 GitHub Website
 
